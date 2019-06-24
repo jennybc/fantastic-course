@@ -1,2 +1,0 @@
-summary(cars)
-plot(pressure)
