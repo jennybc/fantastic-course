@@ -25,9 +25,9 @@ use_course("https://github.com/jennybc/fantastic-course/archive/master.zip")
 use_course("jennybc/fantastic-course")
 
 # DropBox folder
-use_course("https://www.dropbox.com/sh/12345abcde/6789wxyz?dl=1")
+use_course("https://www.dropbox.com/sh/alf1y6jr81x39wi/AAAif-Y3KlBfORyVGXmfBSEXa?dl=1")
 
-# Put any of the above behind an easy-to-type shortlink
+# Put a link to any ZIP archive behind an easy-to-type shortlink
 use_course("rstd.io/yaasss")
 ```
 
